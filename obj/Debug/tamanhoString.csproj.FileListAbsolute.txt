@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\tamanhoString\obj\Debug\tamanhoString.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\tamanhoString\obj\Debug\tamanhoString.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\tamanhoString\bin\Debug\tamanhoString.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\tamanhoString\bin\Debug\tamanhoString.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\tamanhoString\bin\Debug\tamanhoString.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\tamanhoString\obj\Debug\tamanhoString.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios string\tamanhoString\obj\Debug\tamanhoString.pdb
